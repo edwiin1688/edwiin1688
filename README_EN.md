@@ -1,16 +1,12 @@
-<!-- GitHub Profile 的設定檔案 README.md -->
-<!-- 如果需要教學參考 docs/GitHubProfile.md -->
+<!-- GitHub Profile README.md (English Version) -->
+<!-- For tutorial reference, see docs/GitHubProfile.md -->
 
-### 我是工程師 Sam 🐵
-[View in English](./README_EN.md)
+### I am Engineer Sam 🐵
+[切換到中文](./README.md)
 <!--
 **chiisen/chiisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**chiisen/chiisen** 是一個 ✨ _特殊_ ✨ 儲存庫，因為它的 `README.md`（此檔案）出現在你的 GitHub 個人資料中。
-
 Here are some ideas to get you started:
-
-以下是一些可以幫助您入門的想法：
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,40 +16,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-- 🔭 我目前正在研究...
--🌱 我目前正在學習...
-- 👯 我正在尋找合作...
-- 🤔 我正在尋求幫助......
--💬 問我關於...
-- 📫 如何聯絡我：...
--😄 代名詞：......
--⚡有趣的事實：......
 -->
 
-<!-- 打字特效 -->
+<!-- Typing Effect -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好啊!歡迎來到我的GitHub&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello! Welcome to my GitHub&center=true&size=27">
   </a>
 </h1>
 
-<!-- 程式碼美圖2 -->
+<!-- Code Art 2 -->
 <img src="https://i.imgur.com/cAcoxOp.jpg" width="200">  
 
 ---
 
-[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 Sam 的開源作品(持續累積中🏃‍♂️)(Jekyll版)  
-[🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev) 使用 Hexo 架設簡單的 104 個人履歷並發佈到 `cloudflare`  
-[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ Sam 的文章分享(持續累積中🏃‍♂️)(Hexo版)  
-[🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI) 104 履歷參考資料  
+[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 Sam’s open-source projects (continuously growing🏃‍♂️)(Jekyll version)  
+[🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev) A simple 104 personal résumé built with Hexo and deployed to `cloudflare`  
+[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ Sam’s article sharing (continuously growing🏃‍♂️)(Hexo version)  
+[🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI) 104 résumé reference materials  
+
 
 ---
 
-- 👨‍💻 工作經驗 15 年以上
+- 👨‍💻 Over 15 years of work experience
 
-也許你想知道:
-- 👨‍💻 最近學習:  
+Maybe you want to know:
+- 👨‍💻 Recently learning:  
 
 ---
 
@@ -74,9 +62,9 @@ Claude Code plugin ralph-wiggum、
 [CLine](https://github.com/chiisen/CLine)、  
 [Trae](https://github.com/chiisen/Trae)、  
 [Google AI Studio](https://github.com/chiisen/Google_AI_Studio)、  
-[AnythingLLM RAG - 打造自己的地端 AI 客服系統、AI 知識庫系統、AI 智慧助理、AI 專家機器人](https://github.com/chiisen/AnythingLLM_RAG)、  
-[Nano Banana Pro 提示詞工程神器](https://github.com/chiisen/NanoBananaPro)  
-Cursor、Windsurf、Trae、Lingma  
+[AnythingLLM RAG - Build Your Own On-Premises AI Customer Service System, AI Knowledge Base System, AI Smart Assistant, and AI Expert Robot](https://github.com/chiisen/AnythingLLM_RAG)、  
+[Nano Banana Pro Prompt Engineering Toolkit](https://github.com/chiisen/NanoBananaPro)  
+Cursor, Windsurf, Trae, Lingma  
 
 ---
 
@@ -101,7 +89,7 @@ Cursor、Windsurf、Trae、Lingma
 <img src="./images/spec-kit-02.jpg" width="200">  
 <!-- 要空一行格式才不會亂 -->
 
-[🔗Repositories: `spec-kit-todo`](https://github.com/chiisen/spec-kit-todo)  
+[🔗Repositories: `VibeCodingOpenSpec`](https://github.com/chiisen/spec-kit-todo)  
 
 ---
 
@@ -129,9 +117,8 @@ Cursor、Windsurf、Trae、Lingma
 
 ---
 
-- MCP Server（Model Context Protocol Server）  
+- MCP Server (Model Context Protocol Server)  
 <img src="./images/MCP.jpg" width="200">  
-<!-- 要空一行格式才不會亂 -->
 
 [🔗Repositories: `ClaudeLocalMCP.js`](https://github.com/chiisen/ClaudeLocalMCP.js)  
 [🔗Repositories: `ClaudeLocalMCP.ts`](https://github.com/chiisen/ClaudeLocalMCP.ts)  
@@ -139,84 +126,76 @@ Cursor、Windsurf、Trae、Lingma
 
 ---
 
-- OpenAI、Claude、Perplexity、NotebookLM  
+- OpenAI, Claude, Perplexity, NotebookLM  
 <img src="./images/ChatGPT.png" width="200">  
 
 ---
 
-- n8n + RAG(spuabase)  
+- n8n  
 <img src="./images/n8n.png" width="200">  
-<img src="./images/n8n_RAG_supabase.jpg" width="200">  
-<!-- 要空一行格式才不會亂 -->
-
 [🔗Repositories: `n8n`](https://github.com/chiisen/n8n)  
 
 ---
 
-- 👨‍💻 我的經歷(<a href="https://104-5nh.pages.dev" target="_blank">🔗 Sam 經歷詳細說明(Hexo 版)</a>):  
+- 👨‍💻 My Experience (<a href="https://104-5nh.pages.dev" target="_blank">🔗 Sam's detailed experience (Hexo version)</a>):  
 
-<a href="https://104-5nh.pages.dev/2017/06/30/salmon/" target="_blank">🔗 2018年01月05日 雪霸國家公園櫻花鉤吻鮭互動導覽程式</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
+<a href="https://104-5nh.pages.dev/2017/06/30/salmon/" target="_blank">🔗 Jan 5, 2018 Shei-Pa National Park Cherry Salmon Interactive Guide Program</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 <img src="./images/20180105salmon.jpg" width="200">  
 
-與台灣櫻花鉤吻鮭有關的互動遊戲，模擬國寶魚在溪流中的生態，遊客可藉由遊戲的互動內容，更加深入的認識國寶魚的棲地環境與生態知識。
-
+An interactive game about Taiwan's cherry salmon, simulating the ecology of the national treasure fish in streams. Visitors can learn more about the habitat and ecological knowledge of the cherry salmon through interactive gameplay.
 
 ---
 
-<a href="https://104-5nh.pages.dev/2015/10/31/survivor/" target="_blank">🔗 2015/11~2016/10 倖存者聯盟</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
+<a href="https://104-5nh.pages.dev/2015/10/31/survivor/" target="_blank">🔗 Nov 2015 ~ Oct 2016 Survivor Alliance</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 <img src="./images/survivor.jpg" width="200">  
 
-這是一款以全新末日角度打造的殭屍題材即時戰略手機遊戲，期待引爆全球生存之戰。
-
+A real-time strategy mobile game with a new post-apocalyptic zombie theme, aiming to ignite a global survival war.
 
 ---
 
-<a href="https://104-5nh.pages.dev/2013/10/31/we-dx/" target="_blank">🔗 2013/11~2014/10 唯舞獨尊 DX</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<a href="https://104-5nh.pages.dev/2013/10/31/we-dx/" target="_blank">🔗 Nov 2013 ~ Oct 2014 We Dance DX</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 <img src="./images/we_dx.jpeg" width="200">  
 
-全新打造的線上音樂節奏跳舞遊戲，遊戲保留了玩家熟悉的玩法，並收錄最多的華文歌曲。本作採用 Unity 3D 引擎打造，官方強調畫面比前作更為細緻。研發團隊在開發時訴求遊戲人物外觀和服裝較為貼近真人比例，但五官不會過於寫實而失去夢幻感。
-
+A newly developed online music rhythm dance game, retaining familiar gameplay and featuring the largest collection of Chinese songs. Built with Unity 3D engine, the game emphasizes more detailed graphics and realistic character proportions, while maintaining a dreamy feel.
 
 ---
 
-<a href="https://104-5nh.pages.dev/2010/12/31/we-fb/" target="_blank">🔗 2011/1~2012/4 唯舞獨尊(臉書版)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<a href="https://104-5nh.pages.dev/2010/12/31/we-fb/" target="_blank">🔗 Jan 2011 ~ Apr 2012 We Dance (Facebook version)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 <img src="./images/we_fb.jpeg" width="200">  
 
-具有多樣的音樂玩法模式，加上社交平台特有的好友互動、趣味分享等元素，讓玩家可以與好友一起聽音樂、玩遊戲。透過獨特的社交聊天功能，還能認識更多玩家一起同樂。
-
+Featuring various music gameplay modes and social platform interactions, players can listen to music and play games with friends. Unique chat features allow players to meet and have fun together.
 
 ---
 
-<a href="https://104-5nh.pages.dev/2005/11/30/we-online/" target="_blank">🔗 2005/12~2007/5 唯舞獨尊Online</a> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+<a href="https://104-5nh.pages.dev/2005/11/30/we-online/" target="_blank">🔗 Dec 2005 ~ May 2007 We Dance Online</a> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 <img src="./images/we_online.jpeg" width="200">  
 
-這是一款結合時尚的音樂遊戲，玩家只需使用簡單的 4 個方向鍵，隨著音樂節拍操縱遊戲中的人物，與其他玩家進行對戰尬舞，非常考驗手指的反應和節奏感。
-
+A stylish music game where players use four direction keys to control characters to dance to the beat and compete with others, testing finger reaction and rhythm.
 
 ---
 
-- 🏡 開源作品(持續累積中🏃‍♂️):  
-<a href="https://chiisen.github.io" target="_blank">🔗 "Sam 的🏡 開源作品介紹網站(持續累積中🏃‍♂️)(Jekyll版)"</a>  
+- 🏡 Open Source Projects (Continuously Growing🏃‍♂️):  
+<a href="https://chiisen.github.io" target="_blank">🔗 "Sam's🏡 Open Source Project Introduction Website (Continuously Growing🏃‍♂️)(Jekyll version)"</a>  
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
 ---
 
-- ⭐️ 文章分享(持續累積中🏃‍♂️):  
-<a href="https://docs-axs.pages.dev" target="_blank">🔗 "Sam 的🏡 文章分享介紹網站(持續累積中🏃‍♂️)(Hexo版)"</a>  
+- ⭐️ Article Sharing (Continuously Growing🏃‍♂️):  
+<a href="https://docs-axs.pages.dev" target="_blank">🔗 "Sam's🏡 Article Sharing Website (Continuously Growing🏃‍♂️)(Hexo version)"</a>  
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
 ---
 
-## ✨ Github 今年總結  
+## ✨ Github Year Summary  
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chiisen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chiisen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
 
 ---
 
 ### 📋 Languages
-<!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
+<!-- Icon image URLs reference: https://github.com/Ileriayo/markdown-badges -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -251,11 +230,9 @@ Cursor、Windsurf、Trae、Lingma
 ### 💾 Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -325,5 +302,4 @@ Cursor、Windsurf、Trae、Lingma
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
-
 
